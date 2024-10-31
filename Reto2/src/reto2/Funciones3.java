@@ -1,3 +1,5 @@
+package reto2;
+
 import java.util.Scanner;
 
 import util.FuncionesJava;
@@ -6,8 +8,6 @@ public class Funciones3 {
 
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
-		sc.close();
 	}
 
 	public static double EfectivoED(double dinero) {
@@ -159,4 +159,5 @@ public class Funciones3 {
 		} while (n != 0);
 		return;
 	}
+
 }
