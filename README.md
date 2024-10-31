@@ -1,4 +1,4 @@
-Crear repositorio:Dsaniil
+Crear repositorio:Daniil
 Funciones1:Daniil
 Funciones2:Mohamed
-Funciones3: Alejandro
+Funciones3:Alejandro
